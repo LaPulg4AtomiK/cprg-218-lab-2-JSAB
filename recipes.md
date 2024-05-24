@@ -82,6 +82,8 @@ Ingredients:
 - Lettuce
 - Tomato
 - Mayonnaise
+- Onion
+- Bacon 
 
 Instructions:
 1. Preheat grill to medium-high heat.
