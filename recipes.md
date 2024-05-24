@@ -115,3 +115,16 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
+
+### Latte Coffee
+
+Ingredients:
+-1 empty cup
+-1 spoon instant coffee
+-1/2 cup clear water
+-1/2 cup milk
+
+Instructions:
+1. Mix the 1/2 cup of water and the 1/2 cup f milk on the empty cup.
+2. Insert the instant coffee to the mix.
+3. Heat to your liking. 
